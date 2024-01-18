@@ -1,0 +1,52 @@
+{
+  "Employee": [
+    {
+      "id": 101,
+      "empname": "Ganesh",
+      "empsalary": 7500,
+      "empAddress": "Pune"
+    },
+    {
+      "id": 102,
+      "empname": "Prasad",
+      "empsalary": 8500,
+      "empAddress": "U.P"
+    },
+    {
+      "id": 103,
+      "empname": "Vishnu",
+      "empsalary": 6500,
+      "empAddress": "Nagpur"
+    },
+    {
+      "id": 104,
+      "empname": "Ganesh",
+      "empsalary": "78945",
+      "empAddress": "Katraj"
+    },
+    {
+      "id": 105,
+      "empname": "Raghu",
+      "empsalary": 4500,
+      "empAddress": "Amaravti"
+    },
+    {
+      "empname": "abhi ",
+      "empsalary": "38484",
+      "empAddress": "wakad",
+      "id": 108
+    },
+    {
+      "empname": "Rajesh",
+      "empsalary": "54862",
+      "empAddress": "Amravati",
+      "id": 109
+    },
+    {
+      "empname": "Srushti",
+      "empsalary": "50000000",
+      "empAddress": "Ravet",
+      "id": 110
+    }
+  ]
+}

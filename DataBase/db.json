@@ -1,0 +1,52 @@
+{
+  "product": [
+    {
+      "id": 101,
+      "name": "HardDisk",
+      "price": 57000,
+      "company": "Asus"
+    },
+    {
+      "id": 103,
+      "name": "mouse",
+      "price": "120000",
+      "company": "applebananaa"
+    },
+    {
+      "id": 104,
+      "name": "qwer",
+      "price": "1235",
+      "company": "ewe"
+    },
+    {
+      "id": 105,
+      "name": "flash Drive ",
+      "price": "1000",
+      "company": "Sandisk"
+    },
+    {
+      "id": 106,
+      "name": "Adaptor",
+      "price": 1800,
+      "company": "Iphone"
+    },
+    {
+      "name": "JoyStick ",
+      "price": "54622",
+      "company": "Dell",
+      "id": 108
+    },
+    {
+      "name": "mobile",
+      "price": "8900",
+      "company": "Apple",
+      "id": 109
+    },
+    {
+      "name": "key",
+      "price": "788",
+      "company": "Asus",
+      "id": 110
+    }
+  ]
+}
